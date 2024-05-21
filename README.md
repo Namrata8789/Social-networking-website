@@ -42,8 +42,5 @@ Can sent friend request and follow if want. Friends option include:  <br>
 (i) Update Name, Username & Gender <br>
 (ii) Update Email & Password <br>
 
-### Admin
-Admin has all rights whatever he want. <br>
-
 ## Conclusion
 There are also many more feature which are not in the list.
